@@ -11,11 +11,18 @@ Format and workflow: [docs/skill-format.md](../docs/skill-format.md), [docs/capt
 |------|--------|--------|------|-------------|
 | [capture-session-to-skill](./capture-session-to-skill/SKILL.md) | active | meta | capture, skills, workflow | Turn a successful agent session into a reusable skill in this repo. |
 
+| [zettelkasten-literature-note-ingestion](./zettelkasten-literature-note-ingestion/SKILL.md) | active | writing | zettelkasten, literature, ingestion, atomic, research | Turn a source into a well-structured literature note and suggest atomic breakdowns for Driftworks. |
+
+| [capture-meta-skill-workflow](./capture-meta-skill-workflow/SKILL.md) | active | meta | meta, capture, grok-build, workflow | Turn a successful Grok Build session into a reusable skill in this repository. |
+
 ## By domain
 
 ### meta
 
 - [capture-session-to-skill](./capture-session-to-skill/SKILL.md) — capture successful sessions as versioned skills
+
+- [zettelkasten-literature-note-ingestion](./zettelkasten-literature-note-ingestion/SKILL.md) — ingest research into literature notes and suggest atomic breakdowns
+
 
 <!--
 Add domains as skills appear, for example:
